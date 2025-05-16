@@ -99,7 +99,7 @@
 				types={['Fire']}
 				supertype='Pokémon'
 				subtypes={['Basic']}
-				rarity='rare rainbow alt'
+				rarity='rare holo vmax'
 			/>
 			<Card
 				id='4'
@@ -109,7 +109,7 @@
 				types={['Fire']}
 				supertype='Pokémon'
 				subtypes={['Basic']}
-				rarity='rare rainbow'
+				rarity='rare holo vmax'
 			/>
 			<Card
 				id='5'
@@ -129,7 +129,7 @@
 				types={['Fire']}
 				supertype='Pokémon'
 				subtypes={['Basic']}
-				rarity='rare rainbow alt'
+				rarity='rare holo vmax'
 			/>
 			<Card
 				id='7'
@@ -139,7 +139,7 @@
 				types={['Fire']}
 				supertype='Pokémon'
 				subtypes={['Basic']}
-				rarity='rare rainbow'
+				rarity='rare holo vmax'
 			/>
 			<Card
 				id='8'
@@ -159,7 +159,7 @@
 				types={['Fire']}
 				supertype='Pokémon'
 				subtypes={['Basic']}
-				rarity='rare rainbow alt'
+				rarity='rare holo vmax'
 			/>
 			<Card
 				id='10'
@@ -169,7 +169,7 @@
 				types={['Fire']}
 				supertype='Pokémon'
 				subtypes={['Basic']}
-				rarity='rare rainbow'
+				rarity='rare holo vmax'
 			/>
 			<Card
 				id='11'
@@ -189,7 +189,7 @@
 				types={['Fire']}
 				supertype='Pokémon'
 				subtypes={['Basic']}
-				rarity='rare rainbow alt'
+				rarity='rare holo vmax'
 			/>
 			<Card
 				id='13'
@@ -199,7 +199,7 @@
 				types={['Fire']}
 				supertype='Pokémon'
 				subtypes={['Basic']}
-				rarity='rare rainbow'
+				rarity='rare holo vmax'
 			/>
 			<Card
 				id='14'
