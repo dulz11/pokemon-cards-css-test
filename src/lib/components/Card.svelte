@@ -17,7 +17,7 @@
 
   // image props
   export let img = "";
-  export let back = "https://tcg.pokemon.com/assets/img/global/tcg-card-back-2x.jpg";
+  export let back = "/cards/card-back.png";
   export let foil = "";
   export let mask = "";
 
@@ -342,10 +342,11 @@
   };
 
   onMount(() => {
-
-    // set the front image on mount so that
-    // the lazyloading can work correctly
-    front_img = img_base + img;
+    if (img.startsWith('/') || img.startsWith('http')) {
+      front_img = img;
+    } else {
+      front_img = "https://images.pokemontcg.io/" + img;
+    }
 
     // run a cute little animation on load
     // for showcase card
