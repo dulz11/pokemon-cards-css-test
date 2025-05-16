@@ -64,8 +64,6 @@
 
 <main>
 
-	<Search bind:query />
-
 	{#if query.length < 3}
 
 		<CardList>
