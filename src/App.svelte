@@ -72,7 +72,7 @@
 				name='ElevenLabs'
 				img='/cards/card-1.png'
 				back='/cards/card-back.png'
-				number='001'
+				number='TG-001'
 				types={['Fire']}
 				supertype='Pokémon'
 				subtypes={['Basic']}
