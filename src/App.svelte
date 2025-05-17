@@ -79,100 +79,9 @@
 				rarity='rare secret'
 			/>
 			<Card
-				id='2'
-				name='Granola'
-				img='/cards/card-2.png'
-				back='/cards/card-back.png'
-				number='002'
-				types={['Fire']}
-				supertype='Pokémon'
-				subtypes={['Basic']}
-				rarity='rare holo vmax'
-			/>
-			<Card
-				id='3'
-				name='Pika'
-				img='/cards/card-3.png'
-				number='001'
-				types={['Fire']}
-				supertype='Pokémon'
-				subtypes={['Basic']}
-				rarity='rare holo vmax'
-			/>
-			<Card
-				id='4'
-				name='Freepik'
-				img='/cards/card-4.png'
-				number='001'
-				types={['Fire']}
-				supertype='Pokémon'
-				subtypes={['Basic']}
-				rarity='rare holo vmax'
-			/>
-			<Card
-				id='5'
-				name='Flora'
-				img='/cards/card-5.png'
-				number='001'
-				types={['Fire']}
-				supertype='Pokémon'
-				subtypes={['Basic']}
-				rarity='rare holo vmax'
-			/>
-			<Card
-				id='6'
-				name='Magnific'
-				img='/cards/card-6.png'
-				number='001'
-				types={['Fire']}
-				supertype='Pokémon'
-				subtypes={['Basic']}
-				rarity='rare holo vmax'
-			/>
-			<Card
-				id='7'
-				name='Notion'
-				img='/cards/card-7.png'
-				number='001'
-				types={['Fire']}
-				supertype='Pokémon'
-				subtypes={['Basic']}
-				rarity='rare holo vmax'
-			/>
-			<Card
-				id='8'
-				name='Viggle'
-				img='/cards/card-8.png'
-				number='001'
-				types={['Fire']}
-				supertype='Pokémon'
-				subtypes={['Basic']}
-				rarity='rare holo vmax'
-			/>
-			<Card
 				id='9'
 				name='HeyGen'
 				img='/cards/card-9.png'
-				number='001'
-				types={['Fire']}
-				supertype='Pokémon'
-				subtypes={['Basic']}
-				rarity='rare holo vmax'
-			/>
-			<Card
-				id='10'
-				name='Hedra'
-				img='/cards/card-10.png'
-				number='001'
-				types={['Fire']}
-				supertype='Pokémon'
-				subtypes={['Basic']}
-				rarity='rare holo vmax'
-			/>
-			<Card
-				id='11'
-				name='Higgsfield'
-				img='/cards/card-11.png'
 				number='001'
 				types={['Fire']}
 				supertype='Pokémon'
@@ -190,9 +99,80 @@
 				rarity='rare holo vmax'
 			/>
 			<Card
-				id='13'
-				name='Lovable'
-				img='/cards/card-13.png'
+				id='10'
+				name='Hedra'
+				img='/cards/card-10.png'
+				number='001'
+				types={['Fire']}
+				supertype='Pokémon'
+				subtypes={['Basic']}
+				rarity='rare holo vmax'
+			/>
+			<Card
+				id='2'
+				name='Granola'
+				img='/cards/card-2.png'
+				back='/cards/card-back.png'
+				number='002'
+				types={['Fire']}
+				supertype='Pokémon'
+				subtypes={['Basic']}
+				rarity='rare holo vmax'
+			/>
+			<Card
+				id='7'
+				name='Notion'
+				img='/cards/card-7.png'
+				number='001'
+				types={['Fire']}
+				supertype='Pokémon'
+				subtypes={['Basic']}
+				rarity='rare holo vmax'
+			/>
+			<Card
+				id='3'
+				name='Pika'
+				img='/cards/card-3.png'
+				number='001'
+				types={['Fire']}
+				supertype='Pokémon'
+				subtypes={['Basic']}
+				rarity='rare holo vmax'
+			/>
+			<Card
+				id='11'
+				name='Higgsfield'
+				img='/cards/card-11.png'
+				number='001'
+				types={['Fire']}
+				supertype='Pokémon'
+				subtypes={['Basic']}
+				rarity='rare holo vmax'
+			/>
+			<Card
+				id='4'
+				name='Freepik'
+				img='/cards/card-4.png'
+				number='001'
+				types={['Fire']}
+				supertype='Pokémon'
+				subtypes={['Basic']}
+				rarity='rare holo vmax'
+			/>
+			<Card
+				id='6'
+				name='Magnific'
+				img='/cards/card-6.png'
+				number='001'
+				types={['Fire']}
+				supertype='Pokémon'
+				subtypes={['Basic']}
+				rarity='rare holo vmax'
+			/>
+			<Card
+				id='5'
+				name='Flora'
+				img='/cards/card-5.png'
 				number='001'
 				types={['Fire']}
 				supertype='Pokémon'
@@ -203,6 +183,26 @@
 				id='14'
 				name='Veed'
 				img='/cards/card-14.png'
+				number='001'
+				types={['Fire']}
+				supertype='Pokémon'
+				subtypes={['Basic']}
+				rarity='rare holo vmax'
+			/>
+			<Card
+				id='13'
+				name='Lovable'
+				img='/cards/card-13.png'
+				number='001'
+				types={['Fire']}
+				supertype='Pokémon'
+				subtypes={['Basic']}
+				rarity='rare holo vmax'
+			/>
+			<Card
+				id='8'
+				name='Viggle'
+				img='/cards/card-8.png'
 				number='001'
 				types={['Fire']}
 				supertype='Pokémon'
