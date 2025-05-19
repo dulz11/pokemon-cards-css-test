@@ -72,11 +72,11 @@
 				name='ElevenLabs'
 				img='/cards/card-1.png'
 				back='/cards/card-back.png'
-				number='TG-001'
+				number='001'
 				types={['Fire']}
 				supertype='Pokémon'
 				subtypes={['Basic']}
-				rarity='rare secret'
+				rarity='rare holo vmax'
 			/>
 			<Card
 				id='9'
