@@ -209,6 +209,16 @@
 				subtypes={['Basic']}
 				rarity='rare holo vmax'
 			/>
+			<Card
+				id='8'
+				name='You?'
+				img='/cards/card-15.png'
+				number='001'
+				types={['Fire']}
+				supertype='Pokémon'
+				subtypes={['Basic']}
+				rarity='rare holo vmax'
+			/>
 		</CardList>
 	{/if}
 </main>
